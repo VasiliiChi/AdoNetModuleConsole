@@ -17,6 +17,8 @@ class Program
             Console.WriteLine("Ошибка подключения!");
         }
 
+
+
         Console.ReadKey();
 
     }
